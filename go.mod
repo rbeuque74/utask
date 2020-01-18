@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/Masterminds/goutils v1.1.0 // indirect
 	github.com/Masterminds/semver v1.4.2 // indirect
-	github.com/Masterminds/sprig v2.20.0+incompatible
+	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/Masterminds/squirrel v1.1.0
 	github.com/SSSaaS/sssa-golang v0.0.0-20170502204618-d37d7782d752 // indirect
 	github.com/cenkalti/backoff v2.2.1+incompatible
