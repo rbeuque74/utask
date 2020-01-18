@@ -177,6 +177,8 @@ github.com/ovh/go-ovh v0.0.0-20181109152953-ba5adb4cf014 h1:37VE5TYj2m/FLA9SNr4z
 github.com/ovh/go-ovh v0.0.0-20181109152953-ba5adb4cf014/go.mod h1:joRatxRJaZBsY3JAOEMcoOp05CnZzsx4scTxi95DHyQ=
 github.com/ovh/symmecrypt v0.3.0 h1:mEG0uL28jpClU8Dz7L1T0JzcOP2ESYJAwNpkTRL08xQ=
 github.com/ovh/symmecrypt v0.3.0/go.mod h1:39tehz0mgJfrpQOGUMf5J29rK1GzPiTxLFiVuk9XPO0=
+github.com/ovh/symmecrypt v0.4.0 h1:y7vBTTuLgcIHP7xG8ATbsR/npPVDOEINHWU97hbXb4E=
+github.com/ovh/symmecrypt v0.4.0/go.mod h1:39tehz0mgJfrpQOGUMf5J29rK1GzPiTxLFiVuk9XPO0=
 github.com/ovh/tat v5.2.5+incompatible h1:UjzEBUy0zfDyhucSlEYDWuZ52+BNVR9FsYRbVfuobLE=
 github.com/ovh/tat v5.2.5+incompatible/go.mod h1:eRL842a3T+2ept8tEg5IxitkGJL6X8wh1JkRa9DNzo0=
 github.com/pelletier/go-toml v1.2.0/go.mod h1:5z9KED0ma1S8pY6P1sdut58dfprrGBbd/94hg7ilaic=
