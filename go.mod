@@ -36,7 +36,7 @@ require (
 	github.com/onsi/gomega v1.5.0 // indirect
 	github.com/ovh/configstore v0.3.2
 	github.com/ovh/go-ovh v0.0.0-20181109152953-ba5adb4cf014
-	github.com/ovh/symmecrypt v0.3.0
+	github.com/ovh/symmecrypt v0.4.2
 	github.com/ovh/tat v5.2.5+incompatible
 	github.com/pelletier/go-toml v1.4.0 // indirect
 	github.com/prometheus/client_golang v1.1.0
