@@ -39,10 +39,7 @@ require (
 	github.com/ovh/symmecrypt v0.3.0
 	github.com/ovh/tat v5.2.5+incompatible
 	github.com/pelletier/go-toml v1.4.0 // indirect
-	github.com/prometheus/client_golang v1.1.0
-	github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4 // indirect
-	github.com/prometheus/common v0.7.0 // indirect
-	github.com/prometheus/procfs v0.0.5 // indirect
+	github.com/prometheus/client_golang v1.7.1
 	github.com/robertkrimen/otto v0.0.0-20180617131154-15f95af6e78d
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/satori/go.uuid v1.2.0 // indirect
@@ -64,7 +61,6 @@ require (
 	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
 	google.golang.org/appengine v1.6.3 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
-	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/ini.v1 v1.46.0 // indirect
 	gopkg.in/mail.v2 v2.3.1
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce // indirect
