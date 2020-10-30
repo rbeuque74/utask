@@ -17,7 +17,6 @@ require (
 	github.com/go-gorp/gorp v2.2.0+incompatible
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
 	github.com/gofrs/uuid v3.3.0+incompatible
-	github.com/golang/protobuf v1.4.0 // indirect
 	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/jcmturner/gokrb5/v8 v8.3.0 // indirect
 	github.com/jinzhu/now v1.0.1 // indirect
@@ -36,14 +35,10 @@ require (
 	github.com/ovh/tat v5.2.5+incompatible
 	github.com/pelletier/go-toml v1.4.0 // indirect
 	github.com/poy/onpar v1.0.0 // indirect
-	github.com/prometheus/client_golang v1.1.0
-	github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4 // indirect
-	github.com/prometheus/common v0.7.0 // indirect
-	github.com/prometheus/procfs v0.0.5 // indirect
+	github.com/prometheus/client_golang v1.8.0
 	github.com/robertkrimen/otto v0.0.0-20191219234010-c382bd3c16ff
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/sirupsen/logrus v1.6.0
-	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337 // indirect
 	github.com/sparrc/go-ping v0.0.0-20190613174326-4e5b6552494c
 	github.com/spf13/afero v1.2.2 // indirect
 	github.com/spf13/cobra v0.0.6
@@ -59,7 +54,6 @@ require (
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/net v0.0.0-20200904194848-62affa334b73
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
-	golang.org/x/sys v0.0.0-20200523222454-059865788121 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/ini.v1 v1.46.0 // indirect
