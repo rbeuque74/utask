@@ -51,8 +51,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.4.0
 	github.com/stretchr/testify v1.5.1
-	github.com/tidwall/gjson v1.6.0
-	github.com/tidwall/pretty v1.0.1 // indirect
+	github.com/tidwall/gjson v1.6.1
 	github.com/wI2L/fizz v0.13.4
 	github.com/ybriffa/deepcopy v0.0.0-20200601125345-88c31e59651d
 	github.com/ziutek/mymysql v1.5.4 // indirect
