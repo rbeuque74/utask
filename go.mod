@@ -53,7 +53,7 @@ require (
 	github.com/stretchr/testify v1.5.1
 	github.com/tidwall/gjson v1.6.0
 	github.com/tidwall/pretty v1.0.1 // indirect
-	github.com/wI2L/fizz v0.13.4
+	github.com/wI2L/fizz v0.15.0
 	github.com/ybriffa/deepcopy v0.0.0-20200601125345-88c31e59651d
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
