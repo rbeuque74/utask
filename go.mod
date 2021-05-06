@@ -5,8 +5,6 @@ go 1.13
 require (
 	github.com/Masterminds/sprig/v3 v3.1.0
 	github.com/Masterminds/squirrel v1.4.0
-	github.com/SSSaaS/sssa-golang v0.0.0-20170502204618-d37d7782d752 // indirect
-	github.com/alexbrainman/sspi v0.0.0-20180613141037-e580b900e9f5 // indirect
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/fabienm/go-logrus-formatters v1.0.0
 	github.com/facebookgo/ensure v0.0.0-20160127193407-b4ab57deab51 // indirect
@@ -22,7 +20,6 @@ require (
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.2.0 // indirect
 	github.com/imdario/mergo v0.3.9 // indirect
-	github.com/jcmturner/gokrb5/v8 v8.3.0 // indirect
 	github.com/jinzhu/now v1.0.1 // indirect
 	github.com/jpillora/backoff v1.0.0
 	github.com/json-iterator/go v1.1.11 // indirect
@@ -33,13 +30,11 @@ require (
 	github.com/magiconair/properties v1.8.1 // indirect
 	github.com/markusthoemmes/goautoneg v0.0.0-20190713162725-c6008fefa5b1
 	github.com/maxatome/go-testdeep v1.8.0
-	github.com/miscreant/miscreant.go v0.0.0-20200214223636-26d376326b75 // indirect
 	github.com/mitchellh/reflectwalk v1.0.1 // indirect
-	github.com/ovh/configstore v0.3.2
+	github.com/ovh/configstore v0.5.1
 	github.com/ovh/go-ovh v0.0.0-20181109152953-ba5adb4cf014
-	github.com/ovh/symmecrypt v0.4.3
+	github.com/ovh/symmecrypt v0.5.1
 	github.com/ovh/tat v5.2.5+incompatible
-	github.com/pelletier/go-toml v1.4.0 // indirect
 	github.com/prometheus/client_golang v1.1.0
 	github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4 // indirect
 	github.com/prometheus/common v0.7.0 // indirect
@@ -60,20 +55,13 @@ require (
 	github.com/ugorji/go v1.2.5 // indirect
 	github.com/wI2L/fizz v0.16.0
 	github.com/ybriffa/go-http-digest-auth-client v0.6.3
-	github.com/ziutek/mymysql v1.5.4 // indirect
 	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
 	golang.org/x/sys v0.0.0-20210503173754-0981d6026fa6 // indirect
 	golang.org/x/text v0.3.6 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
-	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
 	gopkg.in/ini.v1 v1.46.0 // indirect
-	gopkg.in/jcmturner/aescts.v1 v1.0.1 // indirect
-	gopkg.in/jcmturner/dnsutils.v1 v1.0.1 // indirect
-	gopkg.in/jcmturner/goidentity.v3 v3.0.0 // indirect
-	gopkg.in/jcmturner/gokrb5.v7 v7.5.0 // indirect
-	gopkg.in/jcmturner/rpc.v1 v1.1.0 // indirect
 	gopkg.in/mail.v2 v2.3.1
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 )
