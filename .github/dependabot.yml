@@ -7,13 +7,16 @@ updates:
       interval: "weekly"
     assignees:
       - rbeuque74
-      
+    open-pull-requests-limit: 20
+
   - package-ecosystem: "npm"
     directory: "/ui/dashboard/"
     schedule:
       interval: "weekly"
-      
+    open-pull-requests-limit: 20
+
   - package-ecosystem: "npm"
     directory: "/ui/editor/"
     schedule:
       interval: "weekly"
+    open-pull-requests-limit: 20
