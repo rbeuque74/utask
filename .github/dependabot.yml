@@ -1,0 +1,19 @@
+# https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+version: 2
+updates:
+  - package-ecosystem: "gomod"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    assignees:
+      - rbeuque74
+      
+  - package-ecosystem: "npm"
+    directory: "/ui/dashboard/"
+    schedule:
+      interval: "weekly"
+      
+  - package-ecosystem: "npm"
+    directory: "/ui/editor/"
+    schedule:
+      interval: "weekly"
