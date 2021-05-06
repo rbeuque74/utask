@@ -3,7 +3,7 @@ module github.com/ovh/utask
 go 1.13
 
 require (
-	github.com/Masterminds/sprig/v3 v3.1.0
+	github.com/Masterminds/sprig/v3 v3.2.2
 	github.com/Masterminds/squirrel v1.4.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/fabienm/go-logrus-formatters v1.0.0
@@ -19,7 +19,6 @@ require (
 	github.com/gofrs/uuid v4.0.0+incompatible
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.2.0 // indirect
-	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/jinzhu/now v1.0.1 // indirect
 	github.com/jpillora/backoff v1.0.0
 	github.com/json-iterator/go v1.1.11 // indirect
