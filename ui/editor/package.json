@@ -26,7 +26,7 @@
     "convert-yaml": "1.0.5",
     "d3": "6.2.0",
     "dagre-d3": "0.6.4",
-    "jquery": "3.5.1",
+    "jquery": "3.6.0",
     "js-yaml": "3.14.0",
     "lodash": "4.17.21",
     "lodash-es": "4.17.15",
