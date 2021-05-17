@@ -25,7 +25,7 @@ require (
 	github.com/json-iterator/go v1.1.11 // indirect
 	github.com/juju/errors v0.0.0-20200330140219-3fe23663418f
 	github.com/leodido/go-urn v1.2.1 // indirect
-	github.com/lib/pq v1.9.0
+	github.com/lib/pq v1.10.2
 	github.com/loopfz/gadgeto v0.11.0
 	github.com/magiconair/properties v1.8.1 // indirect
 	github.com/markusthoemmes/goautoneg v0.0.0-20190713162725-c6008fefa5b1
