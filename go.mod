@@ -53,7 +53,7 @@ require (
 	github.com/tidwall/gjson v1.6.0
 	github.com/tidwall/pretty v1.0.1 // indirect
 	github.com/ugorji/go v1.2.5 // indirect
-	github.com/wI2L/fizz v0.16.0
+	github.com/wI2L/fizz v0.17.0
 	github.com/ybriffa/go-http-digest-auth-client v0.6.3
 	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
