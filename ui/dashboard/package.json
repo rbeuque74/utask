@@ -24,7 +24,7 @@
         "@angular/platform-browser-dynamic": "11.0.0",
         "@angular/router": "11.0.0",
         "@sentry/browser": "5.27.4",
-        "@swimlane/ngx-charts": "16.0.0",
+        "@swimlane/ngx-charts": "18.0.1",
         "@types/lodash-es": "4.17.3",
         "convert-yaml": "1.0.5",
         "dagre-d3": "0.6.4",
