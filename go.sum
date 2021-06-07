@@ -251,8 +251,8 @@ github.com/nelsam/hel/v2 v2.3.2/go.mod h1:1ZTGfU2PFTOd5mx22i5O0Lc2GY933lQ2wb/ggy
 github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d/go.mod h1:YUTz3bUH2ZwIWBy3CJBeOBEugqcmXREj14T+iG/4k4U=
 github.com/oklog/ulid v1.3.1/go.mod h1:CirwcVhetQ6Lv90oh/F+FBtV6XMibvdAFo93nm5qn4U=
 github.com/ovh/configstore v0.3.3-0.20200701085609-a539fcf61db5/go.mod h1:IXY5qFC5mqMIFPXZjeZiAz/qIt+mO6F6SmsOCf/yits=
-github.com/ovh/configstore v0.5.1 h1:vQvnT7KHPR5FwhO2EfYwmU6Gh9+wYk/C6Xqe6Ql6yrw=
-github.com/ovh/configstore v0.5.1/go.mod h1:krvoiDcrESKjEOz6AnKD8EbCmqHHQyOzEJNhAIhB4+Y=
+github.com/ovh/configstore v0.5.2 h1:VgraYqXx35W3ESBuGBzKdaa23FOVjJ7u1aY/zjeYcZw=
+github.com/ovh/configstore v0.5.2/go.mod h1:krvoiDcrESKjEOz6AnKD8EbCmqHHQyOzEJNhAIhB4+Y=
 github.com/ovh/go-ovh v0.0.0-20181109152953-ba5adb4cf014 h1:37VE5TYj2m/FLA9SNr4z0+A0JefvTmR60Zwf8XSEV7c=
 github.com/ovh/go-ovh v0.0.0-20181109152953-ba5adb4cf014/go.mod h1:joRatxRJaZBsY3JAOEMcoOp05CnZzsx4scTxi95DHyQ=
 github.com/ovh/symmecrypt v0.5.1 h1:WjCjCFEHuap5V4sM1AaGm2AzZh0KE/vhx9q9tZn3JVQ=
