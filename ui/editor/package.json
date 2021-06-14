@@ -31,7 +31,7 @@
     "lodash": "4.17.21",
     "lodash-es": "4.17.15",
     "rxjs": "6.6.3",
-    "tslib": "2.0.3",
+    "tslib": "2.3.0",
     "zone.js": "0.11.3"
   },
   "devDependencies": {
