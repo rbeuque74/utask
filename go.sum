@@ -200,8 +200,8 @@ github.com/leodido/go-urn v1.2.1/go.mod h1:zt4jvISO2HfUBqxjfIshjdMTYS56ZS/qv49ic
 github.com/lib/pq v1.9.0 h1:L8nSXQQzAYByakOFMTwpjRoHsMJklur4Gi59b6VivR8=
 github.com/lib/pq v1.9.0/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
 github.com/loopfz/gadgeto v0.9.0/go.mod h1:S3tK5SXmKY3l39rUpPZw1B/iiy1CftV13QABFhj32Ss=
-github.com/loopfz/gadgeto v0.11.0 h1:iDw8WDEsThAJ25Sg1pdTHijsqqJZLjPa8w4sETLBXeA=
-github.com/loopfz/gadgeto v0.11.0/go.mod h1:egSpZydwZZqyACtqzT7z5Ri1TA/SerXwPxSZJZ1qQ1c=
+github.com/loopfz/gadgeto v0.11.1 h1:T/JAT6E+atRgb5hw18k2AdGGS528XTJqne4XdrPezDQ=
+github.com/loopfz/gadgeto v0.11.1/go.mod h1:FFfb8QmTdEo+z9pvzTeTousO2ZoP81WInQg1aG42UOo=
 github.com/lunixbochs/vtclean v0.0.0-20160125035106-4fbf7632a2c6/go.mod h1:pHhQNgMf3btfWnGBVipUOjRYhoOsdGqdm/+2c2E2WMI=
 github.com/magiconair/properties v1.8.0/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
 github.com/magiconair/properties v1.8.1 h1:ZC2Vc7/ZFkGmsVC9KvOjumD+G5lXy2RtTKyzRKO2BQ4=
@@ -262,7 +262,7 @@ github.com/ovh/tat v5.2.5+incompatible/go.mod h1:eRL842a3T+2ept8tEg5IxitkGJL6X8w
 github.com/pelletier/go-toml v1.2.0/go.mod h1:5z9KED0ma1S8pY6P1sdut58dfprrGBbd/94hg7ilaic=
 github.com/pelletier/go-toml v1.8.0 h1:Keo9qb7iRJs2voHvunFtuuYFsbWeOBh8/P9v/kVMFtw=
 github.com/pelletier/go-toml v1.8.0/go.mod h1:D6yutnOGMveHEPV7VQOuvI/gXY61bv+9bAOTRnLElKs=
-github.com/pires/go-proxyproto v0.5.0/go.mod h1:Odh9VFOZJCf9G8cLW5o435Xf1J95Jw9Gw5rnCjcwzAY=
+github.com/pires/go-proxyproto v0.6.0/go.mod h1:Odh9VFOZJCf9G8cLW5o435Xf1J95Jw9Gw5rnCjcwzAY=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
