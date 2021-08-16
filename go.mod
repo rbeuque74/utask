@@ -13,7 +13,7 @@ require (
 	github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 // indirect
 	github.com/facebookgo/subset v0.0.0-20150612182917-8dac2c3c4870 // indirect
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
-	github.com/gin-gonic/gin v1.7.1
+	github.com/gin-gonic/gin v1.7.4
 	github.com/go-gorp/gorp v2.2.0+incompatible
 	github.com/go-playground/validator/v10 v10.6.0 // indirect
 	github.com/gofrs/uuid v4.0.0+incompatible
