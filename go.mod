@@ -26,7 +26,7 @@ require (
 	github.com/juju/errors v0.0.0-20200330140219-3fe23663418f
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/lib/pq v1.9.0
-	github.com/loopfz/gadgeto v0.11.0
+	github.com/loopfz/gadgeto v0.11.2
 	github.com/magiconair/properties v1.8.1 // indirect
 	github.com/markusthoemmes/goautoneg v0.0.0-20190713162725-c6008fefa5b1
 	github.com/maxatome/go-testdeep v1.8.0
