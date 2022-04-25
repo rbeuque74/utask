@@ -28,7 +28,7 @@
         "@types/lodash-es": "4.17.3",
         "convert-yaml": "1.0.5",
         "dagre-d3": "0.6.4",
-        "ejs": "3.1.5",
+        "ejs": "3.1.7",
         "jquery": "3.5.1",
         "js-yaml": "3.14.0",
         "lodash-es": "4.17.15",
