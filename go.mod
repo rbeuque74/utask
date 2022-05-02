@@ -31,7 +31,7 @@ require (
 	github.com/markusthoemmes/goautoneg v0.0.0-20190713162725-c6008fefa5b1
 	github.com/maxatome/go-testdeep v1.8.0
 	github.com/mitchellh/reflectwalk v1.0.1 // indirect
-	github.com/ovh/configstore v0.5.1
+	github.com/ovh/configstore v0.6.1
 	github.com/ovh/go-ovh v0.0.0-20181109152953-ba5adb4cf014
 	github.com/ovh/symmecrypt v0.5.1
 	github.com/ovh/tat v5.2.5+incompatible
@@ -58,7 +58,6 @@ require (
 	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
-	golang.org/x/sys v0.0.0-20210503173754-0981d6026fa6 // indirect
 	golang.org/x/text v0.3.6 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/ini.v1 v1.46.0 // indirect
