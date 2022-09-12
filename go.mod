@@ -16,7 +16,7 @@ require (
 	github.com/gin-gonic/gin v1.7.1
 	github.com/go-gorp/gorp v2.2.0+incompatible
 	github.com/go-playground/validator/v10 v10.6.0 // indirect
-	github.com/gofrs/uuid v4.0.0+incompatible
+	github.com/gofrs/uuid v4.3.0+incompatible
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.2.0 // indirect
 	github.com/imdario/mergo v0.3.9 // indirect
