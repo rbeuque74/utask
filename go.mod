@@ -55,11 +55,9 @@ require (
 	github.com/ugorji/go v1.2.5 // indirect
 	github.com/wI2L/fizz v0.16.0
 	github.com/ybriffa/go-http-digest-auth-client v0.6.3
-	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
-	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
-	golang.org/x/sys v0.0.0-20210503173754-0981d6026fa6 // indirect
-	golang.org/x/text v0.3.6 // indirect
+	golang.org/x/crypto v0.6.0
+	golang.org/x/net v0.6.0
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/ini.v1 v1.46.0 // indirect
 	gopkg.in/mail.v2 v2.3.1
